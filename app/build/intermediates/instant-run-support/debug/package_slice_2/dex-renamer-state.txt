@@ -1,0 +1,4 @@
+#Sun Jan 28 08:30:15 KST 2018
+base.0=C\:\\Users\\parksoyeon\\AndroidStudioProjects\\GridLayout2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
